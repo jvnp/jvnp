@@ -1,6 +1,6 @@
 ### "Believe in your passion and let the journey be your teacher."
 
-Tehchnologies that I have good hands on
+Technologies that I have deep understanding and work on
 
 <div align="center">
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/bootstrap.svg' width='30'/>
