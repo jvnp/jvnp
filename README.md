@@ -3,7 +3,19 @@
 Tehchnologies that I have good hands on
 
 <div align="center">
-<img src = 'https://github.com/jvnp/jvnp/blob/master/images/cpp.svg' width='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/bootstrap.svg' width='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/cpp.svg' width='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/css.svg' width='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/django.svg' width='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/flask.svg' width='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/git.svg' width='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/html.svg' width='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/java.svg' width='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/js.svg' width='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/php.svg' width='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/python.svg' width='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/sql.svg' width='30'/>
+</div>
 
 ## Personal Message
 I am interested in the deepest know-how of how the technology works and can provide solutions to different queries, on varying technological requirements. I continuously work on improving my skills to visualize the long-run outcome of an action, to bring the technological solutions that mark value in the industry.
