@@ -20,8 +20,6 @@ Tehchnologies that I have good hands on
 ## Personal Message
 I am interested in the deepest know-how of how the technology works and can provide solutions to different queries, on varying technological requirements. I continuously work on improving my skills to visualize the long-run outcome of an action, to bring the technological solutions that mark value in the industry.
 
-Expertise on
-
 ## Parallel Computing
 I design parallel server-oriented applications that are able to communicate with each other. It comprises multiple language systems that vary in communication nature.
 
