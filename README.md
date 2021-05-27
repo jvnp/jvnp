@@ -7,7 +7,6 @@ Tehchnologies that I have good hands on
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/cpp.svg' width='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/css.svg' width='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/django.svg' width='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/flask.svg' width='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/git.svg' width='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/html.svg' width='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/java.svg' width='30'/>
