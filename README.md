@@ -5,7 +5,7 @@ Never miss following:
 * Always listen to what people have to say and offer and reciporcate at same point in time with empathy.
 * Things that missed once can be hard to gain again, never settle for less but never expect for more.
 * Run in your life, but never run so fast that no one can see you.
-* Offer something to people when they are in need, things might be taken for granted.
+* Offer something to people when they are in need, things might be taken for granted in unfavourable times.
 * Don't take words of people seriously, their action are always more important.
 
 Technologies that I have deep understanding and work on
