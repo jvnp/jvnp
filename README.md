@@ -1,13 +1,5 @@
 ### "Believe in your passion and let the journey be your teacher."
 
-Never miss following:
-* Focus on your work but never put it above people important in your life.
-* Always listen to what people have to say and offer and reciprocate at same point in time with empathy.
-* Things that missed once can be hard to gain again, never settle for less but never expect for more.
-* Run in your life, but never run so fast that no one can see you.
-* Offer something to people when they are in need, things might be taken for granted in unfavourable times.
-* Words of people mean less whereas their action are always more important.
-
 Technologies that I have deep understanding and work on
 
 <div align="center">
