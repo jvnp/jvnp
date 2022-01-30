@@ -1,4 +1,4 @@
-### "Believe in your passion and let the journey be your teacher."
+### "~~Believe in your passion~~ Work on your purpose and let the journey be your teacher."
 
 Technologies that I have deep understanding and work on
 
