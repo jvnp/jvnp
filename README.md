@@ -29,8 +29,8 @@ Technologies that I have worked on
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/dotnet.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/django.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/flask.png' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/tensorflow.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/opencv.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/tensorflow.png' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/opencv.png' height='30'/>
 </div>
 
 <div align="center">
