@@ -6,7 +6,7 @@ Technologies that I have worked on
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/css.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/html.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/bootstrap.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/jinja.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/jinja.png' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/pug.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/react.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/angular.svg' height='30'/>
