@@ -33,10 +33,10 @@ Technologies that I have worked on
 
 <div align="center">
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/git.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/nginx.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/jenkins.png' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/docker.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/kubernetes.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/nginx.svg' height='30'/>
 </div>
 
 ## Personal Message
