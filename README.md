@@ -10,6 +10,7 @@ Technologies that I have worked on
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/pug.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/react.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/angular.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/nextjs.svg' height='30'/>
 </div>
 
 <div align="center">
