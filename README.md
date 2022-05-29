@@ -1,4 +1,7 @@
-### "Work on your purpose and let the journey be your teacher - Empathy"
+<div align="center">
+Parallel Computing | Web Applications | System Programming | Emerging Technologies
+</div>
+<br />
 
 <div align="center">
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/css.svg' height='30'/>
@@ -44,6 +47,10 @@
 
 I am interested in the deepest know-how of how the technology works and can provide solutions to different queries, on varying technological requirements. I continuously work on improving my skills to visualize the long-run outcome of an action, to bring the technological solutions that mark value in the industry.
 
-### Parallel Computing | Web Applications | System Programming | Emerging Technologies
+<div align="center">
+Empathy | Integrity | Perseverance
+</div>
+
+### "Work on your purpose and let the journey be your teacher."
 
 For more info visit https://jeevanpant.com
