@@ -1,4 +1,4 @@
-### "Work on your purpose and let the journey be your teacher."
+### "Work on your purpose and let the journey be your teacher - Empathy"
 
 <div align="center">
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/css.svg' height='30'/>
