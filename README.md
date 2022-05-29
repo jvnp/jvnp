@@ -1,7 +1,5 @@
 ### "Work on your purpose and let the journey be your teacher."
 
-Technologies that I have worked on
-
 <div align="center">
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/css.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/html.svg' height='30'/>
@@ -46,6 +44,6 @@ Technologies that I have worked on
 
 I am interested in the deepest know-how of how the technology works and can provide solutions to different queries, on varying technological requirements. I continuously work on improving my skills to visualize the long-run outcome of an action, to bring the technological solutions that mark value in the industry.
 
-## Key Areas: Parallel Computing | Web Applications| System Programming | Emerging Technologies
+### Parallel Computing | Web Applications| System Programming | Emerging Technologies
 
 For more info visit https://jeevanpant.com
