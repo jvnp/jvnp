@@ -44,6 +44,6 @@
 
 I am interested in the deepest know-how of how the technology works and can provide solutions to different queries, on varying technological requirements. I continuously work on improving my skills to visualize the long-run outcome of an action, to bring the technological solutions that mark value in the industry.
 
-### Parallel Computing | Web Applications| System Programming | Emerging Technologies
+### Parallel Computing | Web Applications | System Programming | Emerging Technologies
 
 For more info visit https://jeevanpant.com
