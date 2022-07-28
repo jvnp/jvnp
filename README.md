@@ -3,6 +3,8 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 </div>
 <br />
 
+## Technologies which I frequently work on
+
 <div align="center">
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/css.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/html.svg' height='30'/>
@@ -56,8 +58,10 @@ I am interested in the deepest know-how of how the technology works and can prov
 
 <div align="center">
 Empathy | Integrity | Perseverance
-</div>
 
 ### "Work on your purpose and let the journey be your teacher."
+</div>
 
+<div align="right">
 For more info visit https://jeevanpant.com
+</div>
