@@ -52,7 +52,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/linux.svg' height='30'/>
 </div>
 
-## Personal Message
+## <img alt="Jeevan's Profile" width="22px" src="https://jeevanpant.com/img/fav.png" /> Personal Message <a href="https://in.linkedin.com/in/jeevanprakashpant"><img align="right" alt="Jeevan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
 I am interested in the deepest know-how of how the technology works and can provide solutions to different queries, on varying technological requirements. I continuously work on improving my skills to visualize the long-run outcome of an action, to bring the technological solutions that mark value in the industry.
 
@@ -72,4 +72,12 @@ For more info visit https://jeevanpant.com
   <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=jvnp&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EEEEEE,FFFFFF&theme=graywhite"/>
 <img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvnp&layout=compact&hide=HTML&langs_count=10&bg_color=0,EEEEEE,FFFFFF&theme=graywhite"/>
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jvnp" alt="Jeevan" />
+    <a href="https://github.com/jvnp/"><img src="https://img.shields.io/github/followers/jvnp?style=flat-square?color=%234CC61E&label=GitHub%20Followers%20"/></a>
+  <a href="https://github.com/jvnp/"><img src="https://img.shields.io/github/last-commit/jvnp/jvnp?style=flat-square?color=red&label=Last%20Updated%20"/></a>
+</p
 </details>
+
+
