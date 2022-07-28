@@ -7,7 +7,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/css.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/html.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/bootstrap.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/jinja.png' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/jinja.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/pug.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/react.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/angular.svg' height='30'/>
@@ -35,14 +35,14 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/nodejs.png' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/dotnet.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/django.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/flask.png' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/tensorflow.png' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/opencv.png' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/flask.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/tensorflow.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/opencv.svg' height='30'/>
 </div>
 
 <div align="center">
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/git.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/jenkins.png' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/jenkins.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/docker.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/kubernetes.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/nginx.svg' height='30'/>
