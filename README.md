@@ -32,7 +32,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 </div>
 
 <div align="center">
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/nodejs.png' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/nodejs.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/dotnet.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/django.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/flask.svg' height='30'/>
