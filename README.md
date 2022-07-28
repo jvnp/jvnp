@@ -65,3 +65,11 @@ Empathy | Integrity | Perseverance
 <div align="right">
 For more info visit https://jeevanpant.com
 </div>
+
+<details>
+<summary> <b>📊 Stats </b></summary>
+<p align="center">
+  <img align="center" width="450" height="165" src="https://github-readme-stats.vercel.app/api?username=jvnp&show_icons=true&hide_border=false&line_height=20&show_owner=true&bg_color=0,EEEEEE,FFFFFF&theme=graywhite"/>
+<img align="center" width="450" height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvnp&layout=compact&hide=HTML&langs_count=10&bg_color=0,EEEEEE,FFFFFF&theme=graywhite"/>
+</p>
+</details>
