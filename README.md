@@ -22,8 +22,12 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/csharp.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/java.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/php.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/rust.svg' height='30'/>
+</div>
+
+<div align="center">
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/sql.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/mongodb.png' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/mongodb.svg' height='30'/>
 </div>
 
 <div align="center">
