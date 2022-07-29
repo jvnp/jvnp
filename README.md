@@ -6,72 +6,72 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 ## Technologies which I frequently work on
 
 <div align="center">
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/css.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/html.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/markdown.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/bootstrap.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/tailwind.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/sass.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/jinja.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/pug.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/react.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/angular.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/nextjs.svg' height='30'/>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/css.svg" height="30" title="CSS"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/html.svg" height="30" title="HTML"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/markdown.svg" height="30" title="Markdown"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/bootstrap.svg" height="30" title="Bootstrap"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/tailwind.svg" height="30" title="Tailwind"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/sass.svg" height="30" title="Sass"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/jinja.svg" height="30" title="Jinja"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/pug.svg" height="30" title="Pug"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/react.svg" height="30" title="React"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/angular.svg" height="30" title="Angular"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/nextjs.svg" height="30" title="Next.js"/></a>
 </div>
 
 <div align="center">
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/js.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/typescript.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/python.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/rust.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/r.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/csharp.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/cpp.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/java.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/php.svg' height='30'/>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/js.svg" height="30" title="Javascript"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/typescript.svg" height="30" title="Typescript"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/python.svg" height="30" title="Python"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/rust.svg" height="30" title="Rust"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/r.svg" height="30" title="R Programming Laguage"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/csharp.svg" height="30" title="C#"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/cpp.svg" height="30" title="C++"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/java.svg" height="30" title="Java"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/php.svg" height="30" title="PHP"/></a>
 </div>
 
 <div align="center">
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/nodejs.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/expressjs.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/nestjs.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/dotnet.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/flask.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/django.svg' height='30'/>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/nodejs.svg" height="30" title="nodeJS"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/expressjs.svg" height="30" title="Express"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/nestjs.svg" height="30" title="NestJS"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/dotnet.svg" height="30" title=".NET"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/flask.svg" height="30" title="Flask"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/django.svg" height="30" title="Django"/></a>
 </div>
 
 <div align="center">
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/sql.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/mongodb.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/cassandra.svg' height='30'/>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/sql.svg" height="30" title="MySQL"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/mongodb.svg" height="30" title="MongoDB"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/cassandra.svg" height="30" title="Cassandra"/></a>
 </div>
 
 <div align="center">
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/git.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/jenkins.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/docker.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/kubernetes.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/nginx.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/linux.svg' height='30'/>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/git.svg" height="30" title="Git"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/jenkins.svg" height="30" title="Jenkins"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/docker.svg" height="30" title="Docker"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/kubernetes.svg" height="30" title="Kubernetes"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/nginx.svg" height="30" title="NGINX"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/linux.svg" height="30" title="Linux"/></a>
 </div>
 
 <details>
 <summary> more... </summary>
 
 <div align="center">
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/tensorflow.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/opencv.svg' height='30'/>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/tensorflow.svg" height="30" title="Tensorflow"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/opencv.svg" height="30" title="OpenCV"/></a>
 </div>
 
 <div align="center">
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/pandas.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/numpy.svg' height='30'/>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/pandas.svg" height="30" title="Pandas"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/numpy.svg" height="30" title="Numpy"/></a>
 </div>
 
 <div align="center">
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/webpack.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/grunt.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/gulp.svg' height='30'/>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/webpack.svg" height="30" title="Webpack"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/grunt.svg" height="30" title="Grunt"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/gulp.svg" height="30" title="Gulp"/></a>
 </div>
 
 </details>
