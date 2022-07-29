@@ -9,6 +9,8 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/css.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/html.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/bootstrap.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/tailwind.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/sass.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/jinja.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/pug.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/react.svg' height='30'/>
@@ -58,6 +60,11 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <div align="center">
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/tensorflow.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/opencv.svg' height='30'/>
+</div>
+
+<div align="center">
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/pandas.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/numpy.svg' height='30'/>
 </div>
 
 <div align="center">
