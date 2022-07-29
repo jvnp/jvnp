@@ -30,6 +30,8 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 
 <div align="center">
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/nodejs.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/expressjs.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/nestjs.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/dotnet.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/flask.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/django.svg' height='30'/>
@@ -56,6 +58,10 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <div align="center">
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/tensorflow.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/opencv.svg' height='30'/>
+</div>
+
+<div align="center">
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/grunt.svg' height='30'/>
 </div>
 
 </details>
