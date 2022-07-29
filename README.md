@@ -8,6 +8,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <div align="center">
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/css.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/html.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/markdown.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/bootstrap.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/tailwind.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/sass.svg' height='30'/>
@@ -68,7 +69,9 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 </div>
 
 <div align="center">
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/webpack.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/grunt.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/gulp.svg' height='30'/>
 </div>
 
 </details>
