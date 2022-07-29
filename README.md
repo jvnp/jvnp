@@ -29,18 +29,16 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 </div>
 
 <div align="center">
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/sql.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/mongodb.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/cassandra.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/nodejs.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/dotnet.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/flask.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/django.svg' height='30'/>
 </div>
 
 <div align="center">
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/nodejs.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/dotnet.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/django.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/flask.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/tensorflow.svg' height='30'/>
-<img src = 'https://github.com/jvnp/jvnp/blob/main/images/opencv.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/sql.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/mongodb.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/cassandra.svg' height='30'/>
 </div>
 
 <div align="center">
@@ -51,6 +49,16 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/nginx.svg' height='30'/>
 <img src = 'https://github.com/jvnp/jvnp/blob/main/images/linux.svg' height='30'/>
 </div>
+
+<details>
+<summary> more... </summary>
+
+<div align="center">
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/tensorflow.svg' height='30'/>
+<img src = 'https://github.com/jvnp/jvnp/blob/main/images/opencv.svg' height='30'/>
+</div>
+
+</details>
 
 ## <img alt="Jeevan's Profile" width="22px" src="https://jeevanpant.com/img/fav.png" /> Personal Message <a href="https://in.linkedin.com/in/jeevanprakashpant"><img align="right" alt="Jeevan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
 
@@ -65,6 +73,7 @@ Empathy | Integrity | Perseverance
 <div align="right">
 For more info visit https://jeevanpant.com
 </div>
+
 
 <details>
 <summary> <b>📊 Stats </b></summary>
