@@ -45,7 +45,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 
 <div align="center">
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/sql.svg" height="30" title="MySQL"/></a>
-<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/sqlite.svg" height="30" title="Sqlite"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/sqlite.svg" height="30" title="SQLite"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/mongodb.svg" height="30" title="MongoDB"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/cassandra.svg" height="30" title="Cassandra"/></a>
 </div>
@@ -83,7 +83,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 
 </details>
 
-## <img alt="Jeevan's Profile" width="22px" src="https://jeevanpant.com/img/fav.png" /> Personal Message <a href="https://in.linkedin.com/in/jeevanprakashpant"><img align="right" alt="Jeevan's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /></a>
+## <img alt="Jeevan's Profile" width="22px" src="https://jeevanpant.com/img/fav.png" /> Personal Message <a href="https://in.linkedin.com/in/jeevanprakashpant"><img align="right" alt="Jeevan's LinkdeIN" width="22px" src="https://github.com/jvnp/jvnp/blob/main/images/mocha.svg" /></a>
 
 I am interested in the deepest know-how of how the technology works and can provide solutions to different queries, on varying technological requirements. I continuously work on improving my skills to visualize the long-run outcome of an action, to bring the technological solutions that mark value in the industry.
 
