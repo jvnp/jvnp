@@ -66,10 +66,11 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <div align="center">
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/tensorflow.svg" height="30" title="Tensorflow"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/opencv.svg" height="30" title="OpenCV"/></a>
-<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/jupyter.svg" height="30" title="OpenCV"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/pandas.svg" height="30" title="Pandas"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/numpy.svg" height="30" title="Numpy"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/matplotlib.svg" height="30" title="Matplotlib"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/jupyter.svg" height="30" title="Jupyter"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/spyder.svg" height="30" title="Spyder"/></a>
 </div>
 
 <div align="center">
@@ -78,7 +79,6 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/gulp.svg" height="30" title="Gulp"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/jest.svg" height="30" title="Jest"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/mocha.svg" height="30" title="Mocha"/></a>
-<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/chai.svg" height="30" title="Chai"/></a>
 </div>
 
 </details>
