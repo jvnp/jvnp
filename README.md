@@ -3,10 +3,11 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 </div>
 <br />
 
-## Technologies which I frequently work on
+## I frequently work on
 
 <div align="center">
 <kbd>
+<kbd>Frontend Tools/Technologies</kbd><br />
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/css.svg" height="30" title="CSS"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/html.svg" height="30" title="HTML"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/markdown.svg" height="30" title="Markdown"/></a>
@@ -17,12 +18,12 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/pug.svg" height="30" title="Pug"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/react.svg" height="30" title="React"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/angular.svg" height="30" title="Angular"/></a>
-<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/nextjs.svg" height="30" title="Next.js"/></a>
 </kbd>
 </div>
 
 <div align="center">
 <kbd>
+<kbd>Programming Languages</kbd><br />
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/js.svg" height="30" title="Javascript"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/typescript.svg" height="30" title="Typescript"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/python.svg" height="30" title="Python"/></a>
@@ -37,9 +38,11 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 
 <div align="center">
 <kbd>
+<kbd>Frameworks</kbd><br />
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/nodejs.svg" height="30" title="nodeJS"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/expressjs.svg" height="30" title="Express"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/nestjs.svg" height="30" title="NestJS"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/nextjs.svg" height="30" title="Next.js"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/dotnet.svg" height="30" title=".NET"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/flask.svg" height="30" title="Flask"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/django.svg" height="30" title="Django"/></a>
@@ -51,6 +54,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 
 <div align="center">
 <kbd>
+<kbd>Database</kbd><br />
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/sql.svg" height="30" title="MySQL"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/sqlite.svg" height="30" title="SQLite"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/mongodb.svg" height="30" title="MongoDB"/></a>
@@ -60,6 +64,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 
 <div align="center">
 <kbd>
+<kbd>DevOps, CI/CD, and Systems</kbd><br />
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/git.svg" height="30" title="Git"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/jenkins.svg" height="30" title="Jenkins"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/docker.svg" height="30" title="Docker"/></a>
@@ -75,6 +80,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 
 <div align="center">
 <kbd>
+<kbd>Machine Learning</kbd><br />
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/tensorflow.svg" height="30" title="Tensorflow"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/opencv.svg" height="30" title="OpenCV"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/pandas.svg" height="30" title="Pandas"/></a>
@@ -87,6 +93,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 
 <div align="center">
 <kbd>
+<kbd>Node Extensive Libraries</kbd><br />
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/webpack.svg" height="30" title="Webpack"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/grunt.svg" height="30" title="Grunt"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/gulp.svg" height="30" title="Gulp"/></a>
