@@ -20,7 +20,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/angular.svg" height="30" title="Angular"/></a>
 </kbd>
 </div>
-
+<br />
 <div align="center">
 <kbd>
 <kbd>Programming Languages</kbd><br />
@@ -35,7 +35,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/php.svg" height="30" title="PHP"/></a>
 </kbd>
 </div>
-
+<br />
 <div align="center">
 <kbd>
 <kbd>Frameworks</kbd><br />
@@ -51,7 +51,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/laravel.svg" height="30" title="Laravel"/></a>
 </kbd>
 </div>
-
+<br />
 <div align="center">
 <kbd>
 <kbd>Database</kbd><br />
@@ -61,7 +61,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/cassandra.svg" height="30" title="Cassandra"/></a>
 </kbd>
 </div>
-
+<br />
 <div align="center">
 <kbd>
 <kbd>DevOps, CI/CD, and Systems</kbd><br />
@@ -90,7 +90,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/spyder.svg" height="30" title="Spyder"/></a>
 </kbd>
 </div>
-
+<br />
 <div align="center">
 <kbd>
 <kbd>Node Extensive Libraries</kbd><br />
