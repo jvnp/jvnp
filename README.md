@@ -38,10 +38,14 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/dotnet.svg" height="30" title=".NET"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/flask.svg" height="30" title="Flask"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/django.svg" height="30" title="Django"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/qt.svg" height="30" title="QT Framework"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/spring.svg" height="30" title="Spring Framework"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/laravel.svg" height="30" title="Laravel"/></a>
 </div>
 
 <div align="center">
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/sql.svg" height="30" title="MySQL"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/sqlite.svg" height="30" title="Sqlite"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/mongodb.svg" height="30" title="MongoDB"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/cassandra.svg" height="30" title="Cassandra"/></a>
 </div>
@@ -53,6 +57,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/kubernetes.svg" height="30" title="Kubernetes"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/nginx.svg" height="30" title="NGINX"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/linux.svg" height="30" title="Linux"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/aws.svg" height="30" title="Amazon Web Services"/></a>
 </div>
 
 <details>
@@ -61,17 +66,19 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <div align="center">
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/tensorflow.svg" height="30" title="Tensorflow"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/opencv.svg" height="30" title="OpenCV"/></a>
-</div>
-
-<div align="center">
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/jupyter.svg" height="30" title="OpenCV"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/pandas.svg" height="30" title="Pandas"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/numpy.svg" height="30" title="Numpy"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/matplotlib.svg" height="30" title="Matplotlib"/></a>
 </div>
 
 <div align="center">
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/webpack.svg" height="30" title="Webpack"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/grunt.svg" height="30" title="Grunt"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/gulp.svg" height="30" title="Gulp"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/jest.svg" height="30" title="Jest"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/mocha.svg" height="30" title="Mocha"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/chai.svg" height="30" title="Chai"/></a>
 </div>
 
 </details>
