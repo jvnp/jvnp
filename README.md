@@ -79,7 +79,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <summary> more... </summary>
 
 <div align="center">
-<kbd>Machine Learning</kbd><br />
+<kbd>Python & Machine/Deep Learning</kbd><br />
 <kbd>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/tensorflow.svg" height="30" title="Tensorflow"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/keras.svg" height="30" title="Keras"/></a>
