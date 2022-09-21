@@ -96,6 +96,7 @@ Parallel Computing | Web Applications | System Programming | Emerging Technologi
 <kbd>Node Extensive Libraries</kbd><br />
 <kbd>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/webpack.svg" height="30" title="Webpack"/></a>
+<a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/socketio.svg" height="30" title="SocketIO"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/grunt.svg" height="30" title="Grunt"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/gulp.svg" height="30" title="Gulp"/></a>
 <a href="#"><img src="https://github.com/jvnp/jvnp/blob/main/images/jest.svg" height="30" title="Jest"/></a>
